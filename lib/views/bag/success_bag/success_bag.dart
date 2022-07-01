@@ -1,0 +1,1 @@
+export './view/success_bag_page.dart';
